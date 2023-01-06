@@ -1,0 +1,40 @@
+
+	1. Vaccination Tracker
+	2. Food Ordering System (Java, ADT, Android Studio, Eclipse)
+	3. Restaurant Mangement System
+	4. Bus Ticket Management System
+	5. Doctor Appointment System
+	6. Book Rental Service
+	7. E-Commerce
+
+	HTML, CSS, JS, PHP, MySQL, VS Code
+
+	Resume Creator (Resume.io)
+		- Homepage
+		- Templates
+		- Social Profile
+		- Name
+		- Email
+		- Resume with preview
+
+
+	WAP to accept a number and determine if it is positive
+	or negative (without using relational operators).
+
+	if(n>0)
+		printf("positive");
+
+	if(n<0)
+		printf("negative");
+
+
+	C - Create
+	R - Read
+	U - Update
+	D - Delete
+
+
+	ASP.Net	- C# - SQL Server
+
+	Schema Design
+	Normalisation in DBMS

@@ -1,0 +1,28 @@
+Visual Basic vs Visual Basic.Net
+
+.net Framework (windows) vs .net Core (cross platform)
+
+Resume Creator
+	- Homepage
+	- Dashboard
+	- Template
+	- Contact Info
+	- Education
+	- Work Experience
+	- Key Skills
+
+
+	DBMS - Database Management System
+		- Oracle
+		- MS SQL Server
+		- MySQL
+		- MariaDB
+
+	Razor pages
+	
+	Normalisation
+
+MCA
+	- Software Engineer
+	- Data Entry
+	- Trainer/Teacher
